@@ -1,3 +1,5 @@
+//Scenario AB: Complete the Scenario above, then add the following requirements.
+
 let shiftPetNames = petNames.shift()
 console.log(shiftPetNames)
 alert(`The action taken was: .shift()\nThe remaining data are: ${petNames}`)

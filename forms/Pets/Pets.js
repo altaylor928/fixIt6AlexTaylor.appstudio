@@ -1,3 +1,5 @@
+//Scenario: You will create a program that carry out different actions on array data!
+
 let petNames = [' Darcy',' Jack',' Jerry',' Marty',' Vito',' Vinny',' Riley',' Saddie',' Marge',' Sam']
 
 let withMarmaduke = [petNames, ' Marmaduke']
